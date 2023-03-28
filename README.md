@@ -10,10 +10,16 @@ This project is a simple and fast application that allows a user to seemlessly l
 <br>
 https://www.youtube.com/watch?v=tgcCl52EN84&ab_channel=CooperCodes
 <br>
-![ScreenShot](/client/images/progress%20screenshots/volume1/start.png)
+![ScreenShot](/client/images/progress%20screenshots/volume1/start.png)<br>
 ![ScreenShot](/client/images/progress%20screenshots/volume1/sign_in.png)
+<br>
 ![ScreenShot](/client/images/progress%20screenshots/volume1/logged_in.png)
+<br>
 ![ScreenShot](/client/images/progress%20screenshots/volume1/pre_submit.png)
+<br>
 ![ScreenShot](/client/images/progress%20screenshots/volume1/finish.png)
-
+<br><br>
+<ins>Tools Used:</ins><br>
+- GCP Calendar API <br>
+- Supabase backend
 
