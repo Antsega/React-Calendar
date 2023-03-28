@@ -79,7 +79,7 @@ console.log(eventDescription);
           <DateTimePicker onChange={setStart} value={start}></DateTimePicker>
 
           <p>End of your event</p>
-          <DateTimePicker onChange={setStart} value={end}></DateTimePicker>
+          <DateTimePicker onChange={setEnd} value={end}></DateTimePicker>
 
           <p>Event Name</p>
           <input type="text" onChange={(e) => setEventName(e.target.value)} />
